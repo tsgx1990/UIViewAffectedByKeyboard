@@ -1,0 +1,2 @@
+# UIViewAffectedByKeyboard
+一行代码解决输入框被键盘遮挡问题
